@@ -1,5 +1,9 @@
 # Solutions
 
+Tables: - November 2025 data: green_taxi_trips
+        - zones and boroughs: taxi_zone_lookup
+
+
 ## Question 3
 ```sql
 SELECT
