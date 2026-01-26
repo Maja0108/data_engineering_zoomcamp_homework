@@ -1,6 +1,7 @@
 # Solutions
 
-Tables: - November 2025 data: green_taxi_trips
+Tables: 
+        - November 2025 data: green_taxi_trips
         - zones and boroughs: taxi_zone_lookup
 
 
